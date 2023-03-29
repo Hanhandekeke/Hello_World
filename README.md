@@ -1,2 +1,2 @@
 # Hello_World
-Just a begining~
+Just a beginning~
